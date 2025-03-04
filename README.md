@@ -5,7 +5,7 @@ Connect RTC to I2C Bus
 
 Copy files to your micropython device
 
-Run RTC_set.py and set RCT
+Run RTC_set.py and set RTC
 
 Read RTC with RTC_read.py
 
