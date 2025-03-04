@@ -12,3 +12,4 @@ Read RTC with RTC_read.py
 
 
 Tested on Raspberry Pi Pico and ESP32
+Frozzitch '24
